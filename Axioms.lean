@@ -10,3 +10,5 @@ import AveragedChowla
 #print axioms LiouvilleEnergyRH.sign_density_of_H
 #print axioms LiouvilleEnergyRH.riemannHypothesis_of_H
 #print axioms ChowlaRH.logPattern_le_three
+#print axioms LiouvilleEnergyRH.two_point_shift_average
+#print axioms LiouvilleEnergyRH.two_point_square_average

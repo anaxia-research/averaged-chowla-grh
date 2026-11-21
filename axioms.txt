@@ -8,3 +8,5 @@
 'LiouvilleEnergyRH.sign_density_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
 'LiouvilleEnergyRH.riemannHypothesis_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
 'ChowlaRH.logPattern_le_three' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.two_point_shift_average' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.two_point_square_average' depends on axioms: [propext, Classical.choice, Quot.sound]

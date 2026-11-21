@@ -56,6 +56,8 @@ flowchart TD
 | `LiouvilleEnergyRH.liouvilleBound_of_H` | Hypothesis H ⟹ L(N) ≪ N^{1/2+ε} |
 | `LiouvilleEnergyRH.shifted_sum_bound` | Hypothesis H ⟹ Σ λ(n+h) ≪ (N+h)^{1/2+ε} |
 | `LiouvilleEnergyRH.chowla_one_of_H` | Hypothesis H ⟹ Chowla of order 1 (natural averages) |
+| `LiouvilleEnergyRH.two_point_shift_average` | Hypothesis H ⟹ Σ_{h≤H} Σ_{n≤N} λ(n)λ(n+h) ≪ N (N+H)^{1/2+ε} |
+| `LiouvilleEnergyRH.two_point_square_average` | Hypothesis H ⟹ Σ_{h≤N} Σ_{n≤N} λ(n)λ(n+h) ≪ N^{3/2+ε} |
 | `LiouvilleEnergyRH.sign_density_of_H` | Hypothesis H ⟹ λ(n+h) = ±1 each with density 1/2 |
 | `ChowlaRH.logPattern_le_three` | sign patterns of length ≤ 3 from the cited theorems of Tao and Tao–Teräväinen (named hypotheses) |
 
